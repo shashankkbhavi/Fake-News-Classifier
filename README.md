@@ -22,6 +22,33 @@ test.csv: A testing training dataset with all the same attributes at train.csv w
 Dataset Link: https://www.kaggle.com/c/fake-news/data
 
 
+### Tech stack: 
+
+##### Deep Learning: 
+- Tensorflow 2.0
+- Keras
+- RNN
+- Bidirectional LSTM
+- Embedding
+- Padding
+- One Hot encoding
+- Sigmoid Activation function
+- Adam Optimizer
+
+##### Natural Language Processing
+- NLTK
+- Stemming
+- Stopwords removal
+- Regex
+
+##### Machine Learning
+- sklearn
+- Model evaluation
+
+##### Programming language
+- Python
+
+
 ### Model building process:
 
 #### Step 1: Importing Libraries
