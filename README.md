@@ -5,6 +5,7 @@
 Develop a machine learning program to identify when an article might be fake news.
 
 
+
 ### Dataset overview
 
 train.csv: A full training dataset with the following attributes:
@@ -20,6 +21,7 @@ label: A label that marks the article as potentially unreliable
 test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 
 Dataset Link: https://www.kaggle.com/c/fake-news/data
+
 
 
 ### Tech stack: 
@@ -47,6 +49,7 @@ Dataset Link: https://www.kaggle.com/c/fake-news/data
 
 ##### Programming language
 - Python
+
 
 
 ### Model building process:
